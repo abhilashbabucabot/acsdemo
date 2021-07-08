@@ -1,0 +1,14 @@
+{
+    "Jane": [
+        {
+            "name": "Beth",
+            "token": "19:hfmGm4EO-aLymeAXSuXCfn8uNHVdxJaqzWVlUJeNBMc1@thread.v2"
+        }
+    ],
+    "Beth": [
+        {
+            "name": "Jane",
+            "token": "19:hfmGm4EO-aLymeAXSuXCfn8uNHVdxJaqzWVlUJeNBMc1@thread.v2"
+        }
+    ]
+}
